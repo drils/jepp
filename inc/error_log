@@ -1,0 +1,4 @@
+[25-Apr-2018 04:16:21 UTC] PHP Notice:  Undefined variable: message in /home/ay68rj4vs8ls/public_html/inc/sendEmail.php on line 31
+[25-Apr-2018 04:16:21 UTC] PHP Notice:  Undefined variable: error in /home/ay68rj4vs8ls/public_html/inc/sendEmail.php on line 47
+[25-Apr-2018 04:16:21 UTC] PHP Notice:  Undefined variable: siteOwnersEmail in /home/ay68rj4vs8ls/public_html/inc/sendEmail.php on line 49
+[25-Apr-2018 04:16:21 UTC] PHP Notice:  Undefined variable: siteOwnersEmail in /home/ay68rj4vs8ls/public_html/inc/sendEmail.php on line 50
