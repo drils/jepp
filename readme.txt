@@ -1,7 +1,7 @@
 
 ==================================================================================================
 
-KREO is the perfect site template for creative professionals, agencies and freelancers but 
+JEPP is the perfect site template for creative professionals, agencies and freelancers but 
 it can also be used for small business websites.The template features a modern and bold design,
 subtle css animations, 100% mobile ready, retina-ready design, working ajax form and is compatible
 with all modern browsers.
@@ -10,7 +10,7 @@ with all modern browsers.
 
 LICENSE:
 
-KREO is released under the Creative Commons Attribution 3.0 License
+JEPP is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
    to Share - to copy, distribute, display, and perform the work
